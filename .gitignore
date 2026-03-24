@@ -1,0 +1,22 @@
+# ─── ACRDN Secret Files ───
+firebase_creds.json
+config.py
+acrdn_brain.db
+acrdn_results.csv
+hacker_activity.log
+
+# ─── Python ───
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# ─── System ───
+.DS_Store
+Thumbs.db
+.vscode/
+```
+
+---
+
