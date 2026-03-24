@@ -156,6 +156,9 @@ RealVNC
 Pi runs headlessly (no monitor needed)
 Controlled via RealVNC Viewer from any laptop
 See Pi terminal and GPIO status remotely
+"Note: pi_controller.py runs directly on
+Raspberry Pi 4. Copy this file to Pi via
+RealVNC or SCP before running."
 
 
 📊 Live Dashboard
