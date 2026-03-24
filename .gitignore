@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+firebase_creds.json
+config.py
+acrdn_brain.db
+acrdn_results.csv
+hacker_activity.log
